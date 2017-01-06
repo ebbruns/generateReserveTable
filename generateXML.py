@@ -6,8 +6,8 @@ first = True
 print ("What file would you like to convert to XML?")
 print ("Currently supports .csv files (can be made from spreadsheet)")
 print ("Please include typecode in first line for column- String, Number, etc.")
-fileName = input("Please enter file to read: ")
-output = input("Please name your output file (no file extension): ")
+#fileName = input("Please enter file to read: ")
+#output = input("Please name your output file (no file extension): ")
 
 #infile = open(fileName,'r')
 #outfile = open(output+".xml", "w")
